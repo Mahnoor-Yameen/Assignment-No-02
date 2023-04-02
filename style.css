@@ -24,8 +24,8 @@ body {
 }
 
 .div-logo{
-    width: 100px;
-    height: 80px;
+    width: 90px;
+    height: 70px;
 }
 
 
@@ -68,11 +68,11 @@ marquee {
 /* ---------------------------------------------------------------banner */
 .section-banner {
 
-    height: 400px;
+    height: auto;
 }
 
 .size-banner-img {
-    height: 395px;
+    height: auto;
     border-radius: 30px;
     border: 2px solid black;
 }
