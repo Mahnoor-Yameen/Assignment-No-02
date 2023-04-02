@@ -1,5 +1,5 @@
 
-  
+ 
   @import url('https://fonts.googleapis.com/css2?family=Alkatra&family=Delicious+Handrawn&family=Roboto:wght@300&family=Rubik+Iso&display=swap');
 
   @import url('https://fonts.googleapis.com/css2?family=Delicious+Handrawn&family=Roboto:wght@300&family=Rubik+Iso&display=swap');
@@ -19,15 +19,17 @@ body {
 /* ----------------------------------------------------------navbar */
 .navbar {
     background-color: #ffcfd2 !important;
-    height: 13vh;
-width: 100%;
+    
+
     font-weight: 700;
 }
 
-.nav-logo-anchor {
-    width: 80px;
+.div-logo{
+    width: 100px;
     height: 80px;
 }
+
+
 
 .nav-logo-img {
     width: 100%;
